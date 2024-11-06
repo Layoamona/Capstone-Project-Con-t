@@ -25,12 +25,12 @@
       SELECT product, SUM(quantity) as total_sales from [dbo].[Capstone SalesData]
       Group by product
       Order by 2 desc
-      ```
+       ```
       Result
   
-      ![Total Sales by product](https://github.com/user-attachments/assets/8123f85b-904b-407a-838a-8100b2fde4e8)
+       ![Total Sales by product](https://github.com/user-attachments/assets/8123f85b-904b-407a-838a-8100b2fde4e8)
 
-   2.  Highest Selling Product
+   2. Highest Selling Product
       ``` SQL
       Select Product, Max (Total_Revenue) as highest_selling_product from [dbo].[Capstone SalesData]
       Group by Product 
@@ -116,13 +116,14 @@
    ### Analysis from the Customer Data.
 
    1. Most popular subscription by the number of customer
+      
       ``` SQL
       Select top 1 SubscriptionType, count(distinct customerid) as total_customers
-       From [dbo].[Capstone CustomerData]
-       Group by SubscriptionType
+      From [dbo].[Capstone CustomerData]
+      Group by SubscriptionType
       Order by total_customers desc
-     ```
-   Result 
-
-![Most popular subscription by no of ustomer](https://github.com/user-attachments/assets/281d8b55-9e85-4611-8912-5f8f5e4c1e05)
+      ```
+      Result 
+  
+      ![Most popular subscription by no of ustomer](https://github.com/user-attachments/assets/281d8b55-9e85-4611-8912-5f8f5e4c1e05)
 
