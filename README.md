@@ -101,7 +101,7 @@
       
       ![% sales by region](https://github.com/user-attachments/assets/d132a59c-4df9-4bd1-95c7-a270c86b6208)
 
-   9. Total Sales by Revenue
+   8. Total Sales by Revenue
       ``` SQL
       Select product, SUM(total_revenue) as total_revenue from [dbo].[Capstone SalesData]
       Group by product
@@ -115,7 +115,7 @@
 
    ### Analysis from the Customer Data.
 
-   1. Most popular subscription by the number of customer
+  1. Most popular subscription by the number of customer
       
       ``` SQL
       Select top 1 SubscriptionType, count(distinct customerid) as total_customers
@@ -126,4 +126,48 @@
       Result 
   
       ![Most popular subscription by no of ustomer](https://github.com/user-attachments/assets/281d8b55-9e85-4611-8912-5f8f5e4c1e05)
+
+  2.  Average Subscription duration for all customer
+        
+         ``` SQL
+        Select Region, 
+        Sum(Total_Revenue) As total_sales,
+        (Sum(Total_Revenue)*100) / (Select Sum(Total_Revenue)
+        From [dbo].[Capstone SalesData]) As percentage_contribution
+        From [dbo].[Capstone SalesData]
+        Group by 
+        Region
+        Order by
+        3 desc
+        ```
+        Result
+      
+        ![average subscription duration for all customers](https://github.com/user-attachments/assets/444f2e11-3b11-4a8b-8ffe-fc4dd509a911)
+
+  3.   Total Revenue by Subscription type
+       ``` SQL
+       Select SubscriptionType, SUM(Revenue) As TotalRevenue 
+       From [dbo].[Capstone CustomerData]
+       Group by SubscriptionType
+       ```
+       Result
+
+       ![revenue by subscription type](https://github.com/user-attachments/assets/eaf5ab1d-880d-4d8f-b8ae-86f9d689dc77)
+
+  4.  Top 3 Regions with Subscription Cancellation
+      ``` SQL
+      Declare @limit INT =3
+      Select Top (@limit) region, COUNT(Revenue) As cancelled_count
+      From [dbo].[Capstone CustomerData]
+      Where canceled IS NOT NULL
+      Group by region 
+      Order by Count (Revenue) Desc
+      ```
+      Result
+
+      ![cancellation](https://github.com/user-attachments/assets/c1cbcb01-dc81-48e4-af0c-77ba9d18eb03)
+
+
+
+
 
