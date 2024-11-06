@@ -115,7 +115,7 @@
 
    ### Analysis from the Customer Data.
 
-  1. Most popular subscription by the number of customer
+  1.  Most popular subscription by the number of customer
       
       ``` SQL
       Select top 1 SubscriptionType, count(distinct customerid) as total_customers
@@ -127,7 +127,7 @@
   
       ![Most popular subscription by no of ustomer](https://github.com/user-attachments/assets/281d8b55-9e85-4611-8912-5f8f5e4c1e05)
 
-  2.  Average Subscription duration for all customer
+   2.  Average Subscription duration for all customer
         
          ``` SQL
         Select Region, 
@@ -166,6 +166,18 @@
       Result
 
       ![cancellation](https://github.com/user-attachments/assets/c1cbcb01-dc81-48e4-af0c-77ba9d18eb03)
+
+ 5.  TOtal number of active and cancelled subscription
+     ```SQL
+     Select
+     Count(CASE WHEN Canceled = 1 THEN 1 END) As TotalCnceledSubscription,
+     Count(CASE WHEN Canceled = 0 THEN 0 END) As TotalActiveSubscriptions
+     From [dbo].[Capstone CustomerData]
+     ```
+     Result
+
+     ![active and cancelled subscription](https://github.com/user-attachments/assets/e32c6c97-0b8e-48d2-831c-447253dfff98)
+
 
 
 
