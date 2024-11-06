@@ -156,18 +156,17 @@
 
   4.  Top 3 Regions with Subscription Cancellation
       ``` SQL
-      Declare @limit INT =3
-      Select Top (@limit) region, COUNT(Revenue) As cancelled_count
+      Select Top 3 Region, Count (CustomerID) As CancellationCount
       From [dbo].[Capstone CustomerData]
-      Where canceled IS NOT NULL
-      Group by region 
-      Order by Count (Revenue) Desc
+      Where Canceled = 1
+      Group by Region
+      Order by CancellationCount Desc
       ```
       Result
 
-      ![cancellation](https://github.com/user-attachments/assets/c1cbcb01-dc81-48e4-af0c-77ba9d18eb03)
-
- 5.  TOtal number of active and cancelled subscription
+      ![image](https://github.com/user-attachments/assets/4327ebdc-7158-45d0-b955-13aa7946fc78)
+      
+ 6.  Total number of active and cancelled subscription
      ```SQL
      Select
      Count(CASE WHEN Canceled = 1 THEN 1 END) As TotalCnceledSubscription,
