@@ -215,7 +215,9 @@
 
      ## Power BI Analysis
 
-     Power BI is a business analytics tool  used primarily for visualizing data, creating reports, and generating insights from large datasets.
+      
+
+     ![customerdashboard](https://github.com/user-attachments/assets/7cdb065e-efc0-4c64-9452-fff72be0a60f)
 
      
 
