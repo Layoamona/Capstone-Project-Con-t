@@ -126,11 +126,20 @@
     Result
 
        
-     ![sales data dashboard](https://github.com/user-attachments/assets/d664deb4-2cc8-492e-b724-4841449c27db)
+     ![sales data dashboard](https://github.com/user-attachments/assets/6204221a-2e0c-4b90-87ea-0751c535dae7)
 
-    ### Result / Findings
+
+    ### Results / Findings
 
       The analysis results are summarized as follws:
+
+      1. The stalls sold products that were in high demand during specific seasons, such as the Harmattan and rainy seasons. These weather patterns significantly influenced customer purchasing behavior.
+
+      2. The company saw consistent sales increases during seasonal transitions, such as the Harmattan and rainy seasons. For instance, in the northern region, shirts and jackets were consistently popular in January during both 2023 and 2024. On the other hand, shoes and gloves were not as sought after during this period. Therefore, the company should consider focusing on stocking shirts, jackets, and hats during this time to meet the demand in that region.
+      3. Sothern region made brought in the highest revenue in both years nd the major products the customer purchase in February and June of every year are shoes, glooves and socks. This is probably due to the waether condition during that time of the year. Hence the company should focus on stocking the stll with these product and reduce the budget allocated for products.
+      4. In contrast, the southern region generated the highest revenue in both years, with shoes, gloves, and socks being the most purchased items in February and June. This is likely attributed to the specific weather conditions in these months. Consequently, the company should prioritize stocking shoes, gloves, and socks for the southern region during this time and consider reducing the budget allocated to other product categories.
+      5. In the eastern region of Nigeria, there was a decline in shirt purchases in July 2024, which could likely be attributed to a shift in fashion trends. The changing preference in clothing trends may have led consumers to focus more on hats and shoes rather than shirts, jackets, and other typical wear for the season. Fashion trends can be influenced by multiple factors, including cultural shifts, celebrity influence, and even climate conditions. This change in buying behavior highlights the importance of closely monitoring local trends and adjusting stock to meet the evolving demands in different regions.
+   
    
 
 
