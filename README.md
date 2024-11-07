@@ -140,8 +140,12 @@
       4. In contrast, the southern region generated the highest revenue in both years, with shoes, gloves, and socks being the most purchased items in February and June. This is likely attributed to the specific weather conditions in these months. Consequently, the company should prioritize stocking shoes, gloves, and socks for the southern region during this time and consider reducing the budget allocated to other product categories.
       5. In the eastern region of Nigeria, there was a decline in shirt purchases in July 2024, which could likely be attributed to a shift in fashion trends. The changing preference in clothing trends may have led consumers to focus more on hats and shoes rather than shirts, jackets, and other typical wear for the season. Fashion trends can be influenced by multiple factors, including cultural shifts, celebrity influence, and even climate conditions. This change in buying behavior highlights the importance of closely monitoring local trends and adjusting stock to meet the evolving demands in different regions.
    
+   ### Recommendation
+    1.The company needs to ensure that the stalls are stocked with products that are most in demand based on the seasonal weather patterns in each region.
    
-
+    2. Continuously assess sales data to ensure that inventory aligns with customer purchasing behavior. Regions with higher revenue should have increased stock of their most-purchased items, while those with lower demand should consider adjusting the stock allocation accordingly.
+    3. 
+    4. There should be incentives for customers who make the most purchases. This approach would not only make customers feel valued and appreciated but also encourage them to refer others
 
     ### Analysis from the Customer Data
 
