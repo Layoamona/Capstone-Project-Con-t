@@ -177,6 +177,10 @@
 
      ![active and cancelled subscription](https://github.com/user-attachments/assets/e32c6c97-0b8e-48d2-831c-447253dfff98)
 
+     ## Power BI Analysis
+
+     
+
 
 
 
