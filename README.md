@@ -111,9 +111,30 @@
       
       ![image](https://github.com/user-attachments/assets/8ccd74ea-6473-4f25-8d0a-7f9ed072a365)
 
- -  Power bi
+    ### Power BI Analysis
+    
+     Power BI is a business analytics tool  used primarily for visualizing data, creating reports, and generating insights from large datasets. The first step to having an error free data and visualization is to 
+     first, clean the data. Revove all forms of duplicate and empty rows or columns. After this, visualization can start properly. Below are the steps we took while creating insights in order to derive meaniful 
+     conclusions of the sales data.
 
-   ### Analysis from the Customer Data.
+    1. Removal of duplicate and null rows
+    2. A virtualization tool "card" was used to find the total revenue and average sales.
+    3. Clustered column chart was used to find the region generating the highest revenue
+    4. Pie chart was used to calculate the sales trend
+    5. Doughnut chart was used to calculate the percentage revenue of each region
+
+    Result
+
+       
+     ![sales data dashboard](https://github.com/user-attachments/assets/d664deb4-2cc8-492e-b724-4841449c27db)
+
+    ### Result / Findings
+
+      The analysis results are summarized as follws:
+   
+
+
+    ### Analysis from the Customer Data
 
   1.  Most popular subscription by the number of customer
       
@@ -127,7 +148,9 @@
   
       ![Most popular subscription by no of ustomer](https://github.com/user-attachments/assets/281d8b55-9e85-4611-8912-5f8f5e4c1e05)
 
-   2.  Average Subscription duration for all customer
+      
+
+   3.  Average Subscription duration for all customer
         
          ``` SQL
         Select Region, 
@@ -144,7 +167,7 @@
       
         ![average subscription duration for all customers](https://github.com/user-attachments/assets/444f2e11-3b11-4a8b-8ffe-fc4dd509a911)
 
-  3.   Total Revenue by Subscription type
+  4.   Total Revenue by Subscription type
        ``` SQL
        Select SubscriptionType, SUM(Revenue) As TotalRevenue 
        From [dbo].[Capstone CustomerData]
@@ -154,7 +177,7 @@
 
        ![revenue by subscription type](https://github.com/user-attachments/assets/eaf5ab1d-880d-4d8f-b8ae-86f9d689dc77)
 
-  4.  Top 3 Regions with Subscription Cancellation
+  5.  Top 3 Regions with Subscription Cancellation
       ``` SQL
       Select Top 3 Region, Count (CustomerID) As CancellationCount
       From [dbo].[Capstone CustomerData]
@@ -178,6 +201,8 @@
      ![active and cancelled subscription](https://github.com/user-attachments/assets/e32c6c97-0b8e-48d2-831c-447253dfff98)
 
      ## Power BI Analysis
+
+     Power BI is a business analytics tool  used primarily for visualizing data, creating reports, and generating insights from large datasets.
 
      
 
