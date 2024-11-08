@@ -255,13 +255,16 @@
      5. In the South, all the customers subscribed to the premium plan. Although sales were not made in all quaters. Sales were made in the 1st, 2nd and 4th 
         quater. 
 
-      6. In the Western region, all the customers subcribed to the standard plan. There were not sales made in the first quater in both years, while sales were made in the 2nd, 3rd and 4th quarters.
+      6. In the Western region, all the customers subcribed to the standard plan. There were not sales made in the first quater in both years, while sales were 
+         made in the 2nd, 3rd and 4th quarters.
       7. There were flunctuations in the the total sales that were made in both years.
 
 
      ### Recommendation
 
-     1. All the regions need to adequate marketing for their product
+     1. All the regions need adequate marketing for their product.
+     2. The decline in the sales could probably be as a result of the increasee in tariff. If there is going to be any increase in tariff, then there should be 
+        value for the increase. 
 
 
      
