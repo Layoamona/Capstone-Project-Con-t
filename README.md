@@ -1,6 +1,6 @@
-# Capstone-Project-Con-t
+ # Capstone-Project-Con-t
 
-### Virtual Analysis and Inference
+ ### Virtual Analysis and Inference
 
   1. Top 3 Selling Product
 
@@ -8,9 +8,9 @@
 
   2. Total Montly Sales in 2023
      
-    ![TOTAL REVENUE BY ORDER DATE IN 2023](https://github.com/user-attachments/assets/dc7610a0-c611-4514-b4a1-3f9b9a72a5aa)
+     ![TOTAL REVENUE BY ORDER DATE IN 2023](https://github.com/user-attachments/assets/dc7610a0-c611-4514-b4a1-3f9b9a72a5aa)
     
-![TOTAL REVENUE BY REGION, PRODUCT AND ORDER DATE IN 2023](https://github.com/user-attachments/assets/d27996db-3c99-4ba2-a617-4542d6a973c8)
+     ![TOTAL REVENUE BY REGION, PRODUCT AND ORDER DATE IN 2023](https://github.com/user-attachments/assets/d27996db-3c99-4ba2-a617-4542d6a973c8)
 
   3. Total Monthly Sales in 2024
 ![Total revenue by order date in 2024](https://github.com/user-attachments/assets/7f671f6e-c61f-4aed-8f3f-fe73f1fac9b5)
@@ -247,10 +247,9 @@
         the Southern customer went for the Premium plan
 
      3. In 2023, there was a decrease in the total subscription in the first quarter of the year in both the North and the East. Was there an increase in tariff?
+        
      4. In quatre 2 of year 2022 and 2023, no customer subscribed to any of the plans including the basic plan hence, there was no revenue generated in this region 
-        that in the whole of second quarter for both years, could there be a reason for that?
-
-         However, in the Northern region,  although the sales droped by percent, in the 3rd quarter, the sales picked up again.
+        that in the whole of second quarter for both years, could there be a reason for that? However, in the Northern region,  although the sales droped by percent, in the 3rd quarter, the sales picked up again.
     
      5. In the South, all the customers subscribed to the premium plan. Although sales were not made in all quaters. Sales were made in the 1st, 2nd and 4th 
         quater. 
@@ -262,9 +261,10 @@
 
      ### Recommendation
 
-     1. All the regions need adequate marketing for their product.
-     2. The decline in the sales could probably be as a result of the increasee in tariff. If there is going to be any increase in tariff, then there should be 
-        value for the increase. 
+     1. All the regions need to improve their marketing strategies.
+     2. The decline in sales may be due to tariff increase. If there is to be any further increase in tariffs, it’s essential to provide added value by introducing new features to the subscription 
+        package.
+     3. A survey can also be carried out to know the areas in which the company needs to improve on their packages.
 
 
      
