@@ -13,9 +13,11 @@
      ![TOTAL REVENUE BY REGION, PRODUCT AND ORDER DATE IN 2023](https://github.com/user-attachments/assets/d27996db-3c99-4ba2-a617-4542d6a973c8)
 
   3. Total Monthly Sales in 2024
+     
 ![Total revenue by order date in 2024](https://github.com/user-attachments/assets/7f671f6e-c61f-4aed-8f3f-fe73f1fac9b5)
 
 ![TOTAL REVENUE BY REGION, PRODUCT AND ORDER DATE IN 2024](https://github.com/user-attachments/assets/5a9e25d5-a356-4c74-84bf-636876f9a10c)
+
 
 ### Data Analysis
  - For further analyze our data, we made use of SQL in order to understand the sales trend and top performing prodcut. Tracking total sales by product helps align strategies with consumer demand, also helps improve on marketing startegies..
@@ -111,6 +113,7 @@
       
       ![image](https://github.com/user-attachments/assets/8ccd74ea-6473-4f25-8d0a-7f9ed072a365)
 
+
     ### Power BI Analysis
     
      Power BI is a business analytics tool  used primarily for visualizing data, creating reports, and generating insights from large datasets. The first step to having an error free data and visualization is to 
@@ -143,7 +146,8 @@
       3. Sothern region made brought in the highest revenue in both years nd the major products the customer purchase in February and June of every year are shoes, glooves and socks. This is probably due to the waether condition during that time of the year. Hence the company should focus on stocking the stll with these product and reduce the budget allocated for products.
       4. In contrast, the southern region generated the highest revenue in both years, with shoes, gloves, and socks being the most purchased items in February and June. This is likely attributed to the specific weather conditions in these months. Consequently, the company should prioritize stocking shoes, gloves, and socks for the southern region during this time and consider reducing the budget allocated to other product categories.
       5. In the eastern region of Nigeria, there was a decline in shirt purchases in July 2024, which could likely be attributed to a shift in fashion trends. The changing preference in clothing trends may have led consumers to focus more on hats and shoes rather than shirts, jackets, and other typical wear for the season. Fashion trends can be influenced by multiple factors, including cultural shifts, celebrity influence, and even climate conditions. This change in buying behavior highlights the importance of closely monitoring local trends and adjusting stock to meet the evolving demands in different regions.
-   
+
+
    ### Recommendation
     1. The company needs to ensure that the stalls are stocked with products that are most in demand based on the seasonal weather patterns in each region.
    
@@ -152,6 +156,7 @@
        
     3. There should be incentives for customers who make the most purchases. This approach would not only make customers feel valued and appreciated but also 
        encourage them to refer others
+
 
     ### Analysis from the Customer Data
 
@@ -247,16 +252,19 @@
         the Southern customer went for the Premium plan
 
      3. In 2023, there was a decrease in the total subscription in the first quarter of the year in both the North and the East. Was there an increase in tariff?
+     4. In the Norther region, there was a decrese in the sales maded in the second quater by 0.95% compared to the sales revenue made in the first quater.
         
-     4. In quatre 2 of year 2022 and 2023, no customer subscribed to any of the plans including the basic plan hence, there was no revenue generated in this region 
+     5. In quatre 2 of year 2022 and 2023, no customer subscribed to any of the plans including the basic plan hence, there was no revenue generated in this region 
         that in the whole of second quarter for both years, could there be a reason for that? However, in the Northern region,  although the sales droped by percent, in the 3rd quarter, the sales picked up again.
     
-     5. In the South, all the customers subscribed to the premium plan. Although sales were not made in all quaters. Sales were made in the 1st, 2nd and 4th 
+     6. In the South, all the customers subscribed to the premium plan. Although sales were not made in all quaters. Sales were made in the 1st, 2nd and 4th 
         quater. 
 
-      6. In the Western region, all the customers subcribed to the standard plan. There were not sales made in the first quater in both years, while sales were 
+      7. In the Western region, all the customers subcribed to the standard plan. While there were no sales made in the first quater in both years, there was no sales in 2023  but there was a 2.22% increase in 
+         the sales made in the second quarter in 2023. 
          made in the 2nd, 3rd and 4th quarters.
-      7. There were flunctuations in the the total sales that were made in both years.
+         
+      9. There were flunctuations in the the total sales that were made in both years by 0.95% like the Northin 2022 an 2023, in the E in some quaters and an increase 
 
 
      ### Recommendation
