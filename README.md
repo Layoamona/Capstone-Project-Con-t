@@ -225,6 +225,12 @@
 
      
 
+     ![customer](https://github.com/user-attachments/assets/feb644dc-a0aa-40ff-9d6f-308163e744d9)
+
+    1. Subscription Type by Region
+
+      
+
      
 
 
