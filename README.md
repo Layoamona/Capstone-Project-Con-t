@@ -245,6 +245,9 @@
      1. The most poplular subscription type in the Northern and Eastern part is the Basic plan while in the Western, Standard plan was the the most popular while 
         the Southern customer went for the Premium plan
 
+     2. In 2023, there was a decrease in the total subscription in the first quarter of the year in both the North and the East. Was there an increase in tariff?
+     3. In quatre 2 of year 2022 and 2023, no customer subscribed to any of the plans including the basic plan hence, there was no revenue generated in this region that in the whole of second quarter for both years, could there be a reason for that? However, in the Northern region,  
+
 
      ### Recommendation
 
