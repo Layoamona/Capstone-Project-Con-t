@@ -122,11 +122,15 @@
     3. Clustered column chart was used to find the region generating the highest revenue
     4. Pie chart was used to calculate the sales trend
     5. Doughnut chart was used to calculate the percentage revenue of each region
+    6. Two tables were also created to show the monthly and yearly sales trend in terms of quantity and revenue made.
 
     Result
 
        
      ![sales data dashboard](https://github.com/user-attachments/assets/6204221a-2e0c-4b90-87ea-0751c535dae7)
+
+     ![sales trend  PNG](https://github.com/user-attachments/assets/9b2b40e6-8743-419e-bbaf-5b49db401c82)
+
 
 
     ### Results / Findings
