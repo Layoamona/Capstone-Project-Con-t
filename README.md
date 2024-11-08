@@ -242,16 +242,26 @@
 
       The analysis results are summarized as follws:
 
-     1. The most poplular subscription type in the Northern and Eastern part is the Basic plan while in the Western, Standard plan was the the most popular while 
+     1. The average subscription plan 
+     2. The most poplular subscription type in the Northern and Eastern part is the Basic plan while in the Western, Standard plan was the the most popular while 
         the Southern customer went for the Premium plan
 
-     2. In 2023, there was a decrease in the total subscription in the first quarter of the year in both the North and the East. Was there an increase in tariff?
-     3. In quatre 2 of year 2022 and 2023, no customer subscribed to any of the plans including the basic plan hence, there was no revenue generated in this region that in the whole of second quarter for both years, could there be a reason for that? However, in the Northern region,  
+     3. In 2023, there was a decrease in the total subscription in the first quarter of the year in both the North and the East. Was there an increase in tariff?
+     4. In quatre 2 of year 2022 and 2023, no customer subscribed to any of the plans including the basic plan hence, there was no revenue generated in this region 
+        that in the whole of second quarter for both years, could there be a reason for that?
+
+         However, in the Northern region,  although the sales droped by percent, in the 3rd quarter, the sales picked up again.
+    
+     5. In the South, all the customers subscribed to the premium plan. Although sales were not made in all quaters. Sales were made in the 1st, 2nd and 4th 
+        quater. 
+
+      6. In the Western region, all the customers subcribed to the standard plan. There were not sales made in the first quater in both years, while sales were made in the 2nd, 3rd and 4th quarters.
+      7. There were flunctuations in the the total sales that were made in both years.
 
 
      ### Recommendation
 
-     1. 
+     1. All the regions need to adequate marketing for their product
 
 
      
