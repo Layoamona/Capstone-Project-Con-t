@@ -234,59 +234,71 @@
 
      ![customer](https://github.com/user-attachments/assets/feb644dc-a0aa-40ff-9d6f-308163e744d9)
 
- 1.  Subscription Type by Region
+     1. Subscription Type by Region
 
-     ![Subscription Type by Region](https://github.com/user-attachments/assets/10d5b2c2-6cd3-4abe-80ad-3f9fa3ea5473)
+      ![Subscription Type by Region](https://github.com/user-attachments/assets/10d5b2c2-6cd3-4abe-80ad-3f9fa3ea5473)
 
-  2. Percentage Revenue by Subscription Type
+     2. Percentage Revenue by Subscription Type
     
-     ![% revenue by sub](https://github.com/user-attachments/assets/0027a8b8-889b-44a5-a52b-9ad15c3f82c8)
+      ![% revenue by sub](https://github.com/user-attachments/assets/0027a8b8-889b-44a5-a52b-9ad15c3f82c8)
 
 
-     ### Findings / Summary
+   ### Findings / Summary
 
-      The analysis results are summarized as follws:
+  The analysis results are summarized as follws:
   
-  1. Subscription Duration: The average duration for subscription plans was 365 days.
+   1. Subscription Duration: The average duration for subscription plans was 365 days.
 
-  2. Regional Subscription Preferences:
+   2. Regional Subscription Preferences:
 
-     - North and East: The Basic plan was the most popular.
-     - West: The Standard plan was the most popular.
-     - South: Customers preferred the Premium plan.
+      - North and East: The Basic plan was the most popular.
+       
+      - West: The Standard plan was the most popular.
+       
+      - South: Customers preferred the Premium plan.
 
-  3. Subscription Trends in 2023:
+   3. Subscription Trends in 2023:
 
-     - The North and East regions saw a 0.95% decrease in total subscriptions in Q1 2023 compared to Q1 2022. Could an increase in tariffs be a contributing factor?
+      - The North and East regions saw a 0.95% decrease in total subscriptions in Q1 2023 compared to Q1 2022. Could an increase in tariffs be a contributing factor?
 
-  4. Northern Region Sales:
+   4. Northern Region Sales:
 
       - Sales decreased by 0.95% in Q2 2023 compared to Q1 2023.
 
-  5. Lack of Subscriptions in Q2 (2022 & 2023):
+   5. Lack of Subscriptions in Q2 (2022 & 2023):
 
-     - In Q2 of both years, there were no subscriptions across all regions, including the Basic plan, resulting in no revenue generated. Understanding the cause of this pattern may be 
+      - In Q2 of both years, there were no subscriptions across all regions, including the Basic plan, resulting in no revenue generated. Understanding the cause of this pattern may be 
        valuable. Notably, while Northern region sales initially rose by 0.59% in Q3, there was a 100% drop in Q3 2022, with no sales made.
   
-  6. Southern Region:
+   6. Southern Region:
 
-     - All customers subscribed to the Premium plan, with sales occurring in Q1, Q2, and Q4.
+      - All customers subscribed to the Premium plan, with sales occurring in Q1, Q2, and Q4.
 
-  7. Western Region:
+   7. Western Region:
 
-     - All customers subscribed to the Standard plan. No sales were recorded in Q1 for either year, but there was a 2.22% increase in Q2 2023 sales compared to Q2 2022.
+      - All customers subscribed to the Standard plan. No sales were recorded in Q1 for either year, but there was a 2.22% increase in Q2 2023 sales compared to Q2 2022.
 
-  8. Fluctuations in Sales:
+   8. Fluctuations in Sales:
 
-     - Overall sales across both years fluctuated by 0.95%, with some quarters showing no sales at all. Such inconsistencies could pose challenges for business growth and sustainability.
+      - Overall sales across both years fluctuated by 0.95%, with some quarters showing no sales at all. Such inconsistencies could pose challenges for business growth and 
+        sustainability.
 
 
-     ### Recommendation
+   ### Recommendation
 
-     1. All the regions need to improve their marketing strategies.
-     2. The decline in sales may be due to tariff increase. If there is to be any further increase in tariffs, it’s essential to provide added value by introducing new features to the subscription 
-        package.
-     3. A survey can also be carried out to know the areas in which the company needs to improve on their packages.
+   1.  Consider revisiting marketing and pricing strategies to better match what customers in each region prefer.
+
+   2.  Examine the Q1 2023 decrease and investigate any factors, such as increased tariffs or economic challenges, that might have contributed to the 0.95% decrease in subscriptions 
+         in Q1 2023. It is imortant to note that understanding and addressing these causes can help prevent future decresease in sales and retain customers.
+       
+   3.  The decline in sales may be due to tariff increase. If there is to be any further increase in tariffs, it’s essential to provide added value by introducing new features to the 
+         subscription  package.
+
+   4.  The regions need to focus on engaging customers through loyalty rewards, special deals, or auto-renewal options to sustain this growth and prevent sudden declines.
+         
+   5.  A survey can also be carried out to know the areas in which the company needs to improve on their packages.
+
+      
 
 
      
