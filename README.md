@@ -246,25 +246,39 @@
      ### Findings / Summary
 
       The analysis results are summarized as follws:
+  
+  1. Subscription Duration: The average duration for subscription plans was 365 days.
 
-     1. The average subscription plan 
-     2. The most poplular subscription type in the Northern and Eastern part is the Basic plan while in the Western, Standard plan was the the most popular while 
-        the Southern customer went for the Premium plan
+  2. Regional Subscription Preferences:
 
-     3. In 2023, there was a decrease in the total subscription in the first quarter of the year in both the North and the East. Was there an increase in tariff?
-     4. In the Norther region, there was a decrese in the sales maded in the second quater by 0.95% compared to the sales revenue made in the first quater.
-        
-     5. In quatre 2 of year 2022 and 2023, no customer subscribed to any of the plans including the basic plan hence, there was no revenue generated in this region 
-        that in the whole of second quarter for both years, could there be a reason for that? However, in the Northern region,  although the sales droped by percent, in the 3rd quarter, the sales picked up again.
-    
-     6. In the South, all the customers subscribed to the premium plan. Although sales were not made in all quaters. Sales were made in the 1st, 2nd and 4th 
-        quater. 
+     - North and East: The Basic plan was the most popular.
+     - West: The Standard plan was the most popular.
+     - South: Customers preferred the Premium plan.
 
-      7. In the Western region, all the customers subcribed to the standard plan. While there were no sales made in the first quater in both years, there was no sales in 2023  but there was a 2.22% increase in 
-         the sales made in the second quarter in 2023. 
-         made in the 2nd, 3rd and 4th quarters.
-         
-      9. There were flunctuations in the the total sales that were made in both years by 0.95% like the Northin 2022 an 2023, in the E in some quaters and an increase 
+  3. Subscription Trends in 2023:
+
+     - The North and East regions saw a 0.95% decrease in total subscriptions in Q1 2023 compared to Q1 2022. Could an increase in tariffs be a contributing factor?
+
+  4. Northern Region Sales:
+
+      - Sales decreased by 0.95% in Q2 2023 compared to Q1 2023.
+
+  5. Lack of Subscriptions in Q2 (2022 & 2023):
+
+     - In Q2 of both years, there were no subscriptions across all regions, including the Basic plan, resulting in no revenue generated. Understanding the cause of this pattern may be 
+       valuable. Notably, while Northern region sales initially rose by 0.59% in Q3, there was a 100% drop in Q3 2022, with no sales made.
+  
+  6. Southern Region:
+
+     - All customers subscribed to the Premium plan, with sales occurring in Q1, Q2, and Q4.
+
+  7. Western Region:
+
+     - All customers subscribed to the Standard plan. No sales were recorded in Q1 for either year, but there was a 2.22% increase in Q2 2023 sales compared to Q2 2022.
+
+  8. Fluctuations in Sales:
+
+     - Overall sales across both years fluctuated by 0.95%, with some quarters showing no sales at all. Such inconsistencies could pose challenges for business growth and sustainability.
 
 
      ### Recommendation
