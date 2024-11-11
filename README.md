@@ -117,7 +117,7 @@
     ### Power BI Analysis
     
      Power BI is a business analytics tool  used primarily for visualizing data, creating reports, and generating insights from large datasets. The first step to having an error free data and visualization is to 
-     first, clean the data. Revove all forms of duplicate and empty rows or columns. After this, visualization can start properly. Below are the steps we took while creating insights in order to derive meaniful 
+     first, clean the data. Remove all forms of duplicate and empty rows or columns. After this, visualization can start properly. Below are the steps we took while creating insights in order to derive meaniful 
      conclusions of the sales data.
 
     1. Removal of duplicate and null rows
