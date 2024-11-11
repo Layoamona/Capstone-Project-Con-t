@@ -130,9 +130,8 @@
     Result
 
        
-     ![sales data dashboard](https://github.com/user-attachments/assets/6204221a-2e0c-4b90-87ea-0751c535dae7)
+     ![FLASHY](https://github.com/user-attachments/assets/c33018ac-7d36-40fe-9cdb-ea4931932bae)
 
-     ![sales trend  PNG](https://github.com/user-attachments/assets/9b2b40e6-8743-419e-bbaf-5b49db401c82)
 
 
 
@@ -227,22 +226,20 @@
      ### Power BI Analysis
 
       
+   ![CUSTOMER INSIGHT BOARD](https://github.com/user-attachments/assets/54aa7552-4b83-43d4-a595-f0312028ec4b)
 
-     ![customerdashboard](https://github.com/user-attachments/assets/7cdb065e-efc0-4c64-9452-fff72be0a60f)
-
-     
-
-     ![customer](https://github.com/user-attachments/assets/feb644dc-a0aa-40ff-9d6f-308163e744d9)
+    
 
      1. Subscription Type by Region
 
-      ![Subscription Type by Region](https://github.com/user-attachments/assets/10d5b2c2-6cd3-4abe-80ad-3f9fa3ea5473)
+      ![SUB BY REGION](https://github.com/user-attachments/assets/da2c2c91-ede0-4468-a6af-820c716fb91c)
+
 
      2. Percentage Revenue by Subscription Type
     
-      ![% revenue by sub](https://github.com/user-attachments/assets/0027a8b8-889b-44a5-a52b-9ad15c3f82c8)
+    ![% REV](https://github.com/user-attachments/assets/0e7f60dc-3570-4b5c-b2ff-4ac77a7e7944)
 
-
+     
    ### Findings / Summary
 
   The analysis results are summarized as follws:
