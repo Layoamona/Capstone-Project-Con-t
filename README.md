@@ -225,19 +225,18 @@
 
      ### Power BI Analysis
 
-      
-   ![CUSTOMER INSIGHT BOARD](https://github.com/user-attachments/assets/54aa7552-4b83-43d4-a595-f0312028ec4b)
+     ![CUS INSIGHT](https://github.com/user-attachments/assets/19eb54b4-f0ad-40b2-9fa7-094437e80f99)
 
-    
+   
 
      1. Subscription Type by Region
 
-      ![SUB BY REGION](https://github.com/user-attachments/assets/da2c2c91-ede0-4468-a6af-820c716fb91c)
+   ![SUB BY REGION](https://github.com/user-attachments/assets/da2c2c91-ede0-4468-a6af-820c716fb91c)
 
 
      2. Percentage Revenue by Subscription Type
     
-    ![% REV](https://github.com/user-attachments/assets/0e7f60dc-3570-4b5c-b2ff-4ac77a7e7944)
+   ![% REV](https://github.com/user-attachments/assets/0e7f60dc-3570-4b5c-b2ff-4ac77a7e7944)
 
      
    ### Findings / Summary
