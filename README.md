@@ -225,9 +225,9 @@
 
      ### Power BI Analysis
 
-     ![CUS INSIGHT](https://github.com/user-attachments/assets/19eb54b4-f0ad-40b2-9fa7-094437e80f99)
-
    
+   ![CUS INSIGHT](https://github.com/user-attachments/assets/9755ffda-5899-425f-917f-8a0ec1a459e2)
+
 
      1. Subscription Type by Region
 
