@@ -42,7 +42,7 @@
 
 ### SQL Queries
 ---
- - This is where we include some queries for analysis.To further analyze our data, we made use of SQL queries in order to understand the sales trend and top performing prodcut. Tracking total sales by product helps align strategies with consumer demand, also helps improve on marketing startegies..
+ - This is where we include some queries for analysis.To further analyze our data, we made use of SQL queries in order to understand the sales trend and top performing prodcut. Tracking total sales by product helps align strategies with consumer demand, also helps improve on marketing startegies. The following queies helped to calculate the total revenue and product in our dataset.
    
    1. Total Sales by Product
       ``` SQL
