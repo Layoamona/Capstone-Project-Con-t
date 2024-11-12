@@ -250,8 +250,7 @@
      ---
    In this phase, Power BI was used to create visuals that displays key customer segments, cancellation and subscription trends.
     
-   ![CUS INSIGHT](https://github.com/user-attachments/assets/822c2121-9e46-4b8f-91fa-7f740c0ffe58)
-
+   ![CUS INSIGHT](https://github.com/user-attachments/assets/399ff0ca-1b1f-4024-acdb-90f542b7eb56)
 
 
   1. Subscription Type by Region
@@ -263,19 +262,20 @@
 
   2. Percentage Revenue by Subscription Type
      
-     From this visualization, we could see that 
+     From this visualization, we could see that basic subscripption type generates the highest revenue.
     
    ![% REV](https://github.com/user-attachments/assets/0e7f60dc-3570-4b5c-b2ff-4ac77a7e7944)
 
   3. Revenue by Region
      
      This shows the region that generates the highest revenue. From the visualization below, we could see that East generates the highest revenue worth Sixteen Million Nine Hundred and Fifty Eight Thousand, Seven 
-     Hundred and Sixty Three 
+ Hundred and Sixty Three.
 
      ![Region by revenue](https://github.com/user-attachments/assets/7957906a-e21f-4c25-ab2f-2faad1b0e6d0)
 
    ### Findings / Summary
    ---
+   
   The analysis results are summarized as follws:
   
    1. Subscription Duration: The average duration for subscription plans was 365 days.
