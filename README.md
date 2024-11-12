@@ -1,6 +1,6 @@
  # Capstone-Project-Con-t
 
-[Virtual Analysis and Inference](#Virtual-Analysis-and-Inference)
+[Exploratory Data Analysis](#Exploratory-Data-Analysis)
 
 [SQL Queries](#SQL-Queries)
 
@@ -19,13 +19,15 @@
 [Recommendation](#Recommendation)
 
 
- ### Virtual Analysis and Inference
+ ### Exploratory Data Analysis
  ---
+ This involved exploring the data to answer some questions such as the total monthly sales, top 3 selling product and monthly sales trend
+ 
   1. Top 3 Selling Product
 
      ![TOP 3 PRODCUT WITH HIGHEST REVENUE](https://github.com/user-attachments/assets/93873c6f-a7a7-4cf9-b1d5-08995a86af6a)
 
-  2. Total Montly Sales in 2023
+  2. Total Monthly Sales in 2023
      
      ![TOTAL REVENUE BY ORDER DATE IN 2023](https://github.com/user-attachments/assets/dc7610a0-c611-4514-b4a1-3f9b9a72a5aa)
     
@@ -40,7 +42,7 @@
 
 ### SQL Queries
 ---
- - For further analyze our data, we made use of SQL in order to understand the sales trend and top performing prodcut. Tracking total sales by product helps align strategies with consumer demand, also helps improve on marketing startegies..
+ - This is where we include some queries for analysis.To further analyze our data, we made use of SQL queries in order to understand the sales trend and top performing prodcut. Tracking total sales by product helps align strategies with consumer demand, also helps improve on marketing startegies..
    
    1. Total Sales by Product
       ``` SQL
