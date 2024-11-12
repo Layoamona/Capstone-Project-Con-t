@@ -1,6 +1,6 @@
  # Capstone-Project-Con-t
 
-[Virtual Analysis and Inference](#VirtualAnlysisandInference)
+[Virtual Analysis and Inference](VirtualAnlysisandInference)
 
 [Data Analysis using SQL](#DataAnalysisusingSQL)
 
