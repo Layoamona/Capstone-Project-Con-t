@@ -1,20 +1,20 @@
  # Capstone-Project-Con-t
 
-[Virtual Analysis and Inference](VirtualAnlysisandInference)
+[Virtual Analysis and Inference](#Virtual-Analysis-and-Inference)
 
-[Data Analysis using SQL](#DataAnalysisusingSQL)
+[SQL Queries](#SQL-Queries)
 
-[Power BI Analysis](#PowerBIAnalysis)
+[Power BI Analysis](#Power-BI-Analysis)
 
-[Result/ Findings](#Result/Findings)
+[Result / Findings](#Result-/-Findings)
 
 [Recommendation](#Recommendation)
 
-[Analysis for the Customer Data](#AnalysisfortheCustomerData)
+[Analysis for the Customer Data](#Analysis-for-the-Customer-Data)
 
-[Power BI Analysis](#PowerbiAnalysis)
+[Power BI Analysis](#Power-BI-Analysis)
 
-[Findings/ Summary](#Findings/Summary)
+[Findings/ Summary](#Findings-/-Summary)
 
 [Recommendation](#Recommendation)
 
@@ -242,6 +242,7 @@
      Result
 
      ![active and cancelled subscription](https://github.com/user-attachments/assets/e32c6c97-0b8e-48d2-831c-447253dfff98)
+
 
      ### Power BI Analysis
      ---
