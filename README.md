@@ -1,5 +1,24 @@
  # Capstone-Project-Con-t
 
+[Virtual Analysis and Inference](#VirtualAnlysisandInference)
+
+[Data Analysis using SQL](#DataAnalysisusingSQL)
+
+[Power BI Analysis](#PowerBIAnalysis)
+
+[Result/ Findings](#Result/Findings)
+
+[Recommendation](#Recommendation)
+
+[Analysis for the Customer Data](#AnalysisfortheCustomerData)
+
+[Power BI Analysis](#PowerbiAnalysis)
+
+[Findings/ Summary](#Findings/Summary)
+
+[Recommendation](#Recommendation)
+
+
  ### Virtual Analysis and Inference
 
   1. Top 3 Selling Product
@@ -19,7 +38,7 @@
 ![TOTAL REVENUE BY REGION, PRODUCT AND ORDER DATE IN 2024](https://github.com/user-attachments/assets/5a9e25d5-a356-4c74-84bf-636876f9a10c)
 
 
-### Data Analysis
+### Data Analysis using SQL
  - For further analyze our data, we made use of SQL in order to understand the sales trend and top performing prodcut. Tracking total sales by product helps align strategies with consumer demand, also helps improve on marketing startegies..
    
    1. Total Sales by Product
