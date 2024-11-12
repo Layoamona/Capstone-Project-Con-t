@@ -20,7 +20,7 @@
 
 
  ### Virtual Analysis and Inference
-
+ ---
   1. Top 3 Selling Product
 
      ![TOP 3 PRODCUT WITH HIGHEST REVENUE](https://github.com/user-attachments/assets/93873c6f-a7a7-4cf9-b1d5-08995a86af6a)
@@ -39,6 +39,7 @@
 
 
 ### SQL Queries
+---
  - For further analyze our data, we made use of SQL in order to understand the sales trend and top performing prodcut. Tracking total sales by product helps align strategies with consumer demand, also helps improve on marketing startegies..
    
    1. Total Sales by Product
@@ -134,7 +135,7 @@
 
 
     ### Power BI Analysis
-    
+    ---
      Power BI is a business analytics tool  used primarily for visualizing data, creating reports, and generating insights from large datasets. The first step to having error free data and visualization is to 
      first, clean the data. Remove all forms of duplicate and empty rows or columns. After this, visualization can start properly. Below are the steps we took while creating insights in order to derive meaniful 
      conclusions of the sales data.
@@ -153,7 +154,7 @@
 
 
     ### Results / Findings
-
+    ---
       The analysis results are summarized as follws:
 
       1. The stalls sold products that were in high demand during specific seasons, such as the Harmattan and rainy seasons. These weather patterns significantly influenced customer purchasing behavior.
@@ -165,6 +166,7 @@
 
 
    ### Recommendation
+   ---
     1. The company needs to ensure that the stalls are stocked with products that are most in demand based on the seasonal weather patterns in each region.
    
     2. Continuously assess sales data to ensure that inventory aligns with customer purchasing behavior. Regions with higher revenue should have increased stock of 
@@ -175,6 +177,7 @@
 
 
     ### Analysis from the Customer Data
+   ---
 
   1.  Most popular subscription by the number of customer
       
@@ -241,7 +244,7 @@
      ![active and cancelled subscription](https://github.com/user-attachments/assets/e32c6c97-0b8e-48d2-831c-447253dfff98)
 
      ### Power BI Analysis
-
+     ---
    
    ![CUS INSIGHT](https://github.com/user-attachments/assets/9755ffda-5899-425f-917f-8a0ec1a459e2)
 
@@ -257,7 +260,7 @@
 
      
    ### Findings / Summary
-
+   ---
   The analysis results are summarized as follws:
   
    1. Subscription Duration: The average duration for subscription plans was 365 days.
@@ -298,6 +301,7 @@
 
 
    ### Recommendation
+   ---
 
    1.  Consider revisiting marketing and pricing strategies to better match what customers in each region prefer.
 
