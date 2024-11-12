@@ -38,7 +38,7 @@
 ![TOTAL REVENUE BY REGION, PRODUCT AND ORDER DATE IN 2024](https://github.com/user-attachments/assets/5a9e25d5-a356-4c74-84bf-636876f9a10c)
 
 
-### Data Analysis using SQL
+### SQL Queries
  - For further analyze our data, we made use of SQL in order to understand the sales trend and top performing prodcut. Tracking total sales by product helps align strategies with consumer demand, also helps improve on marketing startegies..
    
    1. Total Sales by Product
@@ -150,8 +150,6 @@
 
        
      ![FLASHY](https://github.com/user-attachments/assets/c33018ac-7d36-40fe-9cdb-ea4931932bae)
-
-
 
 
     ### Results / Findings
