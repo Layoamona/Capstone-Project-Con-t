@@ -159,12 +159,16 @@
     ---
       The analysis results are summarized as follws:
 
-      1. The stalls sold products that were in high demand during specific seasons, such as the Harmattan and rainy seasons. These weather patterns significantly influenced customer purchasing behavior.
+      1. The Southern region generated the highest revenue, contributing Twenty Four Thousand, which accounted for 35.49% of the total revenue. This was followed by the West region, which generated a total revenue of Twenty Thousaand.
+   
+      2. The prodcut that generated the highest revenue was hat. The total revenue generated was amounting to Sixteen Thousand, which accounted for 23.27% of the total revenue. While the least performing product was socks. As compared to other products, the total revenue generated was Eight Thousand only.
+         
+      3. The stalls sold products that were in high demand during specific seasons, such as the Harmattan and rainy seasons. These weather patterns significantly influenced customer purchasing behavior.
 
-      2. The company saw consistent sales increases during seasonal transitions, such as the Harmattan and rainy seasons. For instance, in the northern region, shirts and jackets were consistently popular in January during both 2023 and 2024. On the other hand, shoes and gloves were not as sought after during this period. Therefore, the company should consider focusing on stocking shirts, jackets, and hats during this time to meet the demand in that region.
-      3. Sothern region made brought in the highest revenue in both years nd the major products the customer purchase in February and June of every year are shoes, glooves and socks. This is probably due to the waether condition during that time of the year. Hence the company should focus on stocking the stll with these product and reduce the budget allocated for products.
-      4. In contrast, the southern region generated the highest revenue in both years, with shoes, gloves, and socks being the most purchased items in February and June. This is likely attributed to the specific weather conditions in these months. Consequently, the company should prioritize stocking shoes, gloves, and socks for the southern region during this time and consider reducing the budget allocated to other product categories.
-      5. In the eastern region of Nigeria, there was a decline in shirt purchases in July 2024, which could likely be attributed to a shift in fashion trends. The changing preference in clothing trends may have led consumers to focus more on hats and shoes rather than shirts, jackets, and other typical wear for the season. Fashion trends can be influenced by multiple factors, including cultural shifts, celebrity influence, and even climate conditions. This change in buying behavior highlights the importance of closely monitoring local trends and adjusting stock to meet the evolving demands in different regions.
+      4. The company saw consistent sales increases during seasonal transitions, such as the Harmattan and rainy seasons. For instance, in the northern region, shirts and jackets were consistently popular in January during both 2023 and 2024. On the other hand, shoes and gloves were not as sought after during this period. Therefore, the company should consider focusing on stocking shirts, jackets, and hats during this time to meet the demand in that region.
+      5. Sothern region made brought in the highest revenue in both years nd the major products the customer purchase in February and June of every year are shoes, glooves and socks. This is probably due to the waether condition during that time of the year. Hence the company should focus on stocking the stll with these product and reduce the budget allocated for products.
+      6. In contrast, the southern region generated the highest revenue in both years, with shoes, gloves, and socks being the most purchased items in February and June. This is likely attributed to the specific weather conditions in these months. Consequently, the company should prioritize stocking shoes, gloves, and socks for the southern region during this time and consider reducing the budget allocated to other product categories.
+      7. In the eastern region of Nigeria, there was a decline in shirt purchases in July 2024, which could likely be attributed to a shift in fashion trends. The changing preference in clothing trends may have led consumers to focus more on hats and shoes rather than shirts, jackets, and other typical wear for the season. Fashion trends can be influenced by multiple factors, including cultural shifts, celebrity influence, and even climate conditions. This change in buying behavior highlights the importance of closely monitoring local trends and adjusting stock to meet the evolving demands in different regions.
 
 
    ### Recommendation
@@ -279,8 +283,9 @@
   The analysis results are summarized as follws:
   
    1. Subscription Duration: The average duration for subscription plans was 365 days.
-
-   3. Regional Subscription Preferences:
+   2. The subscription plan that generated the highest revenue was the Basic plan. The revenue generated was Thity four Million which amounted the 50.01% of the total revenue.
+   3. The total number of active customer was Eighteen Thousand Six Hundred and Twelve. While the total Cancelled Customers was Fifteen Thousand One Hundred and Seventy Five.
+   4. Regional Subscription Preferences:
 
       - North and East: The Basic plan was the most popular.
        
@@ -288,30 +293,30 @@
        
       - South: Customers preferred the Premium plan.
 
-   4. Subscription Trends in 2023:
+   5. Subscription Trends in 2023:
 
       - The North and East regions saw a 0.95% decrease in total subscriptions in Q1 2023 compared to Q1 2022. Could an increase in tariffs be a contributing factor?
 
-   5. Northern Region Sales:
+   6. Northern Region Sales:
 
       - Sales decreased by 0.95% in Q2 2023 compared to Q1 2023.
 
-   6. Lack of Subscriptions in Q2 (2022 & 2023):
+   7. Lack of Subscriptions in Q2 (2022 & 2023):
 
       - In Q2 of both years, there were no subscriptions across all regions, including the Basic plan, resulting in no revenue generated. Understanding the cause of this pattern may be 
        valuable. Notably, while Northern region sales initially rose by 0.59% in Q3, there was a 100% drop in Q3 2022, with no sales made.
   
-   7. Southern Region:
+   8. Southern Region:
 
       - All customers subscribed to the Premium plan, with sales occurring in Q1, Q2, and Q4.
 
-   8. Western Region:
+   9. Western Region:
 
       - All customers subscribed to the Standard plan. No sales were recorded in Q1 for either year, but there was a 2.22% increase in Q2 2023 sales compared to Q2 2022.
 
-   9. Fluctuations in Sales:
+   10. Fluctuations in Sales:
 
-      - Overall sales across both years fluctuated by 0.95%, with some quarters showing no sales at all. Such inconsistencies could pose challenges for business growth and 
+       - Overall sales across both years fluctuated by 0.95%, with some quarters showing no sales at all. Such inconsistencies could pose challenges for business growth and 
         sustainability.
 
 
